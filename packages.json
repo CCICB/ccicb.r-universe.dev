@@ -2,9 +2,5 @@
     {
         "package": "somaticflags",
         "url": "https://github.com/CCICB/somaticflags"
-    },
-	{
-		"package": "PCAWGmutations",
-		"url": "https://github.com/CCICB/PCAWGmutations"
-	}
+    }
 ]
