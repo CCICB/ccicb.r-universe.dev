@@ -8,4 +8,4 @@ For details on how to set up your own universe, see this [technical note](https:
 
 To add your packages to the CCICB 'r-universe', simply add the package name and url to packages.json.
 
-Would also reccomend adding `![r-universe](https://CCICB.r-universe.dev/badges/PACKAGE_NAME)` to the top of your description file to monitor build status.
+I Would also reccomend adding `![r-universe](https://CCICB.r-universe.dev/badges/PACKAGE_NAME)` to the top of your github README files to monitor build status.
