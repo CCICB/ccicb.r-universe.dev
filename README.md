@@ -12,3 +12,9 @@ I Would also reccomend adding `![r-universe](https://CCICB.r-universe.dev/badges
 
 
 To check on how your builds are progressing, see https://github.com/r-universe/ccicb/actions
+
+To install a package from the CCICB universe, run:
+
+```
+install.packages("package_name", repos = "https://ropensci.r-universe.dev")
+```
