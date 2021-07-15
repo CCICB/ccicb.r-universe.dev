@@ -2,7 +2,7 @@
 
 Repo listing packages to include in a personal cran-like repository (r_universe).
 
-See [**CCICB Packages**](https://selkamand.r-universe.dev/ui#builds)
+See [**CCICB Packages**](https://CCICB.r-universe.dev/ui#builds)
 
 For details on how to set up your own universe, see this [technical note](https://ropensci.org/blog/2021/06/22/setup-runiverse/)
 
