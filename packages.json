@@ -5,6 +5,7 @@
     },
     {
         "package": "CRUX",
-        "url": "https://github.com/CCICB/CRUX"   
+        "url": "https://github.com/CCICB/CRUX",
+        "branch" : "main"
     }
 ]
