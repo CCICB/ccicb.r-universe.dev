@@ -2,5 +2,10 @@
     {
         "package": "somaticflags",
         "url": "https://github.com/CCICB/somaticflags"
+    },
+    {
+        "package": "CRUX",
+        "url": "https://github.com/CCICB/CRUX",
+        "branch" : "main"
     }
 ]
