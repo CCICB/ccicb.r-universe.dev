@@ -4,6 +4,14 @@
         "url": "https://github.com/CCICB/somaticflags"
     },
     {
+        "package": "TCGAgistic",
+        "url": "https://github.com/CCICB/TCGAgistic"
+    },
+    {
+        "package": "PCAWGmutations",
+        "url": "https://github.com/CCICB/PCAWGmutations"
+    },
+    {
         "package": "CRUX",
         "url": "https://github.com/CCICB/CRUX",
         "branch" : "main"
