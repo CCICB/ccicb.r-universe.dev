@@ -1,5 +1,9 @@
 [
     {
+        "package": "ggEDA",
+        "url": "https://github.com/CCICB/ggEDA"
+    },
+    {
         "package": "somaticflags",
         "url": "https://github.com/CCICB/somaticflags"
     },
