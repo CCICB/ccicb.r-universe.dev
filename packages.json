@@ -1,5 +1,9 @@
 [
     {
+        "package": "interactiveEDA",
+        "url": "https://github.com/CCICB/interactiveEDA"
+    },
+    {
         "package": "ggEDA",
         "url": "https://github.com/CCICB/ggEDA"
     },
