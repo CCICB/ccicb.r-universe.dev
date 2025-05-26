@@ -1,5 +1,9 @@
 [
     {
+        "package": "vcf2mafR",
+        "url": "https://github.com/CCICB/vcf2mafR"
+    },
+    {
         "package": "interactiveEDA",
         "url": "https://github.com/CCICB/interactiveEDA"
     },
